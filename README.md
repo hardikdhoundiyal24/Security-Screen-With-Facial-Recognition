@@ -1,14 +1,23 @@
-🧠 **Face Recognition System**
+# Face Recognition System
 
-This project is a simple face recognition system using Python and OpenCV.
-It detects your face and shows a black screen alert when it sees an unrecognized face,
-keeping the screen active until you press the exit button.
+This project is a simple **face recognition system** built using **Python** and **OpenCV**.  
+It detects your face using a webcam and shows a **full-screen black alert** when an **unrecognized face** appears.  
+The black screen remains active until you press the `'e'` key to exit.
 
-🚀 **Features:**
+---
 
-👤 Detects and recognizes faces using your camera
-⚠️ Shows a full-screen black alert when an unknown face is detected
-🛑 Stops the black screen when you press the 'e' key
-🧰 Built using: OpenCV, NumPy, and Pillow
+## 🚀 Features
 
+- 👤 Detects and recognizes faces using your system's camera
+- ⚠️ Displays a full-screen black screen alert for unrecognized faces
+- 🛑 Pressing the `'e'` key removes the black alert
+- 🧰 Libraries used: `OpenCV`, `NumPy`, `Pillow`
 
+---
+
+## 🖥️ Tech Stack
+
+- Python 3
+- OpenCV
+- NumPy
+- Pillow (PIL)
